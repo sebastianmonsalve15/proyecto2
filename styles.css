@@ -1,0 +1,19 @@
+#header{
+    text-align: center;
+    color: rgb(82, 82, 82);
+    font-family: arial;
+}
+
+#header #titulo{
+    background: black;
+    color: white;
+    padding: 1em;
+    border-radius: 30px;
+}
+
+#header #parrafo-1{
+    font-family: Georgia;
+}
+body {
+    background: rgb(128, 128, 189);
+}
